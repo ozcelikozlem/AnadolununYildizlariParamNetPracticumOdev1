@@ -1,7 +1,7 @@
 # AnadolununYildizlariParamNetPracticumOdev1
-Restful Api:
-BookStore:
-Book(Title, Genre, Page Count, Publish Date)
+## Restful Api
+### BookStore
+#### Book(Title, Genre, Page Count, Publish Date):
 .Add New Book
 .Delete Book
 .Update Book
